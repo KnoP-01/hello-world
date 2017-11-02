@@ -4,3 +4,5 @@ readme-edits
 
 
 <irc://irc.freenode.net/#vim>
+
+[#vim](irc://irc.freenode.net/#vim)
